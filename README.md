@@ -5,7 +5,7 @@ Welcome follow my github!
 
 Languages and Tools:
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = "100" height = "100" alt="JavaScript" align=center />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = "20" height = "20" alt="JavaScript" align=center />
 <!--
 **19Qingfeng/19Qingfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
