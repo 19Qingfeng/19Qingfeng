@@ -6,7 +6,7 @@ Welcome follow my github!
 Languages and Tools:
 ![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=19Qingfeng)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=19Qingfeng)](https://github.com/anuraghazra/github-readme-stats =100*100)
 <!--
 **19Qingfeng/19Qingfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
