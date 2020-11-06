@@ -4,9 +4,9 @@ Now I'm working at hylink Ltd as a web frontend engineer.
 Welcome follow my github!
 
 Languages and Tools:
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=19Qingfeng)](https://github.com/anuraghazra/github-readme-stats =100*100)
+[![Anurag's github stats]( =100*100)
+<img src="https://github-readme-stats.vercel.app/api?username=19Qingfeng)](https://github.com/anuraghazra/github-readme-stats" width = "100" height = "100" alt="图片名称" align=center />
 <!--
 **19Qingfeng/19Qingfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
