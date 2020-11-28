@@ -1,5 +1,5 @@
 ### Hi there I'm 19Qingfeng 👋
-Now I'm working at hylink Ltd as a web frontend engineer.
+Now I'm working at Nx Ltd as a web frontend engineer.
 
 Welcome follow my github!
 
