@@ -3,7 +3,7 @@ Now I'm working at Nx Ltd as a web frontend engineer.
 
 Welcome follow my github!
 
-> Never give up thinking*  **Why to do**.
+> Never give up thinking **Why to do**.
 
 Languages and Tools:
 
