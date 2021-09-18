@@ -3,6 +3,8 @@ Now I'm working at Nx Ltd as a web frontend engineer.
 
 Welcome follow my github!
 
+> *> Never give up thinking*  **Why to do**.
+
 Languages and Tools:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = "20" height = "20" alt="JavaScript" style='display:inline' /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width = "20" height = "20" alt="TypeScript" style='display:inline' /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width = "20" height = "20" alt="Vue" style='display:inline'  /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width = "20" height = "20" alt="NodeJs" style='display:inline'  />
