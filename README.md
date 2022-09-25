@@ -1,7 +1,7 @@
 ### Hi there I'm 19Qingfeng 👋
 Now I'm working at cTrip as a web frontend engineer.
 
-- 📫 How to reach me: [掘金·19组清风]([https://juejin.cn/user/430664257382462](https://juejin.cn/user/307518987049112))、[知乎·WangHaoyu](https://www.zhihu.com/people/a-man-man-66)
+- 📫 How to reach me: [掘金·19组清风]([https://juejin.cn/user/430664257382462](https://juejin.cn/user/307518987049112)、[知乎·WangHaoyu](https://www.zhihu.com/people/a-man-man-66)
 
 Welcome follow my github!
 
