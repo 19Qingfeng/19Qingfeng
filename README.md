@@ -1,5 +1,5 @@
 ### Hi there I'm 19Qingfeng 👋
-Now I'm working at cTrip as a web frontend engineer.
+Now I'm working at trip.group as a web frontend engineer.
 
 - 📫 How to reach me: 
 - [掘金·19组清风](https://juejin.cn/user/307518987049112)
