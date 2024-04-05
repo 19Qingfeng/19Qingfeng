@@ -14,6 +14,8 @@ Languages and Tools:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=19Qingfeng&hide=contribs,prs)
 
+![Snake animation](https://github.com/19Qingfeng/19Qingfeng/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **19Qingfeng/19Qingfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
